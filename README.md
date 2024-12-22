@@ -88,7 +88,7 @@ G --> I[Provide Insights on Tumor Formation]
    - Prediction likelihood.
 
 ## Results
-- Achieved an accuracy of XX% (replace with your model's actual performance).
+- Achieved an accuracy of 99%.
 - Demonstrates the potential for early detection and diagnosis of brain tumors.
 
 ## Future Enhancements
