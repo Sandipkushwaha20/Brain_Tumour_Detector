@@ -96,5 +96,3 @@ G --> I[Provide Insights on Tumor Formation]
 - Real-time MRI image processing with edge devices.
 - Incorporating additional diagnostic metrics.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
